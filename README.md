@@ -1,4 +1,6 @@
 # Wine Quality Data Analysis
+Dataset link - https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
 <h1>Overview</h1>
 This project analyzes the Wine Quality dataset using clustering techniques and linear regression. The two primary tasks of this project are:
 
@@ -7,12 +9,12 @@ Data Fitting: Performing multiple linear regression using Gram-Schmidt orthogona
 Data
 The dataset used is Wine Quality Data Set, which includes several physicochemical properties of wines and their corresponding quality ratings. The dataset contains 1143 rows and 12 columns. For this project, we focused on five key variables:
 
-volatile acidity
-citric acid
-residual sugar
-sulphates
-alcohol
-These variables are considered important in determining the quality of the wine.
+<li>volatile acidity</li>
+<li>citric acid</li>
+<li>residual sugar</li>
+<li>sulphates</li>
+<li>alcohol</li>
+<li>These variables are considered important in determining the quality of the wine.</li>
 
 <h3>Columns used in this project</h3>:
 volatile acidity: The amount of acetic acid in wine, which can lead to an unpleasant vinegar taste in wine.
